@@ -1,0 +1,25 @@
+body {
+  background-image: url('../img/Imagen.png');
+  background-size: cover;
+  background-position: center;
+}
+
+.card {
+  width: 350px;
+  background-color: rgba(255, 255, 255, 0.514); 
+  border: 3px solid #31DFEB; 
+  box-shadow: 0 0 25px #5388DD; 
+  border-radius: 15px;
+  padding: 30px;
+}
+
+
+.btn{
+    background-color: rgba(49, 223, 235, 0.8);
+    border: 2px solid rgba(49, 223, 235, 0.8);
+}
+
+.formulario-derecha{
+    margin-left: 500px;
+}
+
